@@ -1,0 +1,504 @@
+[04-Jun-2016 17:19:11 UTC] PHP Warning:  include(): http:// wrapper is disabled in the server configuration by allow_url_include=0 in /home/ubuntu/workspace/Digiudo/view/index.php on line 9
+[04-Jun-2016 17:19:11 UTC] PHP Stack trace:
+[04-Jun-2016 17:19:11 UTC] PHP   1. {main}() /home/ubuntu/workspace/Digiudo/view/index.php:0
+[04-Jun-2016 17:19:11 UTC] PHP Warning:  include(http://fonts.googleapis.com/css?family=Amaranth): failed to open stream: no suitable wrapper could be found in /home/ubuntu/workspace/Digiudo/view/index.php on line 9
+[04-Jun-2016 17:19:11 UTC] PHP Stack trace:
+[04-Jun-2016 17:19:11 UTC] PHP   1. {main}() /home/ubuntu/workspace/Digiudo/view/index.php:0
+[04-Jun-2016 17:19:11 UTC] PHP Warning:  include(): Failed opening 'http://fonts.googleapis.com/css?family=Amaranth' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/Digiudo/view/index.php on line 9
+[04-Jun-2016 17:19:11 UTC] PHP Stack trace:
+[04-Jun-2016 17:19:11 UTC] PHP   1. {main}() /home/ubuntu/workspace/Digiudo/view/index.php:0
+[04-Jun-2016 17:19:11 UTC] PHP Warning:  include(): http:// wrapper is disabled in the server configuration by allow_url_include=0 in /home/ubuntu/workspace/Digiudo/view/index.php on line 12
+[04-Jun-2016 17:19:11 UTC] PHP Stack trace:
+[04-Jun-2016 17:19:11 UTC] PHP   1. {main}() /home/ubuntu/workspace/Digiudo/view/index.php:0
+[04-Jun-2016 17:19:11 UTC] PHP Warning:  include(http://fonts.googleapis.com/css?family=Roboto): failed to open stream: no suitable wrapper could be found in /home/ubuntu/workspace/Digiudo/view/index.php on line 12
+[04-Jun-2016 17:19:11 UTC] PHP Stack trace:
+[04-Jun-2016 17:19:11 UTC] PHP   1. {main}() /home/ubuntu/workspace/Digiudo/view/index.php:0
+[04-Jun-2016 17:19:11 UTC] PHP Warning:  include(): Failed opening 'http://fonts.googleapis.com/css?family=Roboto' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/Digiudo/view/index.php on line 12
+[04-Jun-2016 17:19:11 UTC] PHP Stack trace:
+[04-Jun-2016 17:19:11 UTC] PHP   1. {main}() /home/ubuntu/workspace/Digiudo/view/index.php:0
+[04-Jun-2016 17:19:13 UTC] PHP Warning:  include(): http:// wrapper is disabled in the server configuration by allow_url_include=0 in /home/ubuntu/workspace/Digiudo/view/index.php on line 9
+[04-Jun-2016 17:19:13 UTC] PHP Stack trace:
+[04-Jun-2016 17:19:13 UTC] PHP   1. {main}() /home/ubuntu/workspace/Digiudo/view/index.php:0
+[04-Jun-2016 17:19:13 UTC] PHP Warning:  include(http://fonts.googleapis.com/css?family=Amaranth): failed to open stream: no suitable wrapper could be found in /home/ubuntu/workspace/Digiudo/view/index.php on line 9
+[04-Jun-2016 17:19:13 UTC] PHP Stack trace:
+[04-Jun-2016 17:19:13 UTC] PHP   1. {main}() /home/ubuntu/workspace/Digiudo/view/index.php:0
+[04-Jun-2016 17:19:13 UTC] PHP Warning:  include(): Failed opening 'http://fonts.googleapis.com/css?family=Amaranth' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/Digiudo/view/index.php on line 9
+[04-Jun-2016 17:19:13 UTC] PHP Stack trace:
+[04-Jun-2016 17:19:13 UTC] PHP   1. {main}() /home/ubuntu/workspace/Digiudo/view/index.php:0
+[04-Jun-2016 17:19:13 UTC] PHP Warning:  include(): http:// wrapper is disabled in the server configuration by allow_url_include=0 in /home/ubuntu/workspace/Digiudo/view/index.php on line 12
+[04-Jun-2016 17:19:13 UTC] PHP Stack trace:
+[04-Jun-2016 17:19:13 UTC] PHP   1. {main}() /home/ubuntu/workspace/Digiudo/view/index.php:0
+[04-Jun-2016 17:19:13 UTC] PHP Warning:  include(http://fonts.googleapis.com/css?family=Roboto): failed to open stream: no suitable wrapper could be found in /home/ubuntu/workspace/Digiudo/view/index.php on line 12
+[04-Jun-2016 17:19:13 UTC] PHP Stack trace:
+[04-Jun-2016 17:19:13 UTC] PHP   1. {main}() /home/ubuntu/workspace/Digiudo/view/index.php:0
+[04-Jun-2016 17:19:13 UTC] PHP Warning:  include(): Failed opening 'http://fonts.googleapis.com/css?family=Roboto' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/Digiudo/view/index.php on line 12
+[04-Jun-2016 17:19:13 UTC] PHP Stack trace:
+[04-Jun-2016 17:19:13 UTC] PHP   1. {main}() /home/ubuntu/workspace/Digiudo/view/index.php:0
+[04-Jun-2016 17:19:26 UTC] PHP Warning:  include(): http:// wrapper is disabled in the server configuration by allow_url_include=0 in /home/ubuntu/workspace/Digiudo/view/index.php on line 9
+[04-Jun-2016 17:19:26 UTC] PHP Stack trace:
+[04-Jun-2016 17:19:26 UTC] PHP   1. {main}() /home/ubuntu/workspace/Digiudo/view/index.php:0
+[04-Jun-2016 17:19:26 UTC] PHP Warning:  include(http://fonts.googleapis.com/css?family=Amaranth): failed to open stream: no suitable wrapper could be found in /home/ubuntu/workspace/Digiudo/view/index.php on line 9
+[04-Jun-2016 17:19:26 UTC] PHP Stack trace:
+[04-Jun-2016 17:19:26 UTC] PHP   1. {main}() /home/ubuntu/workspace/Digiudo/view/index.php:0
+[04-Jun-2016 17:19:26 UTC] PHP Warning:  include(): Failed opening 'http://fonts.googleapis.com/css?family=Amaranth' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/Digiudo/view/index.php on line 9
+[04-Jun-2016 17:19:26 UTC] PHP Stack trace:
+[04-Jun-2016 17:19:26 UTC] PHP   1. {main}() /home/ubuntu/workspace/Digiudo/view/index.php:0
+[04-Jun-2016 17:19:26 UTC] PHP Warning:  include(): http:// wrapper is disabled in the server configuration by allow_url_include=0 in /home/ubuntu/workspace/Digiudo/view/index.php on line 12
+[04-Jun-2016 17:19:26 UTC] PHP Stack trace:
+[04-Jun-2016 17:19:26 UTC] PHP   1. {main}() /home/ubuntu/workspace/Digiudo/view/index.php:0
+[04-Jun-2016 17:19:26 UTC] PHP Warning:  include(http://fonts.googleapis.com/css?family=Roboto): failed to open stream: no suitable wrapper could be found in /home/ubuntu/workspace/Digiudo/view/index.php on line 12
+[04-Jun-2016 17:19:26 UTC] PHP Stack trace:
+[04-Jun-2016 17:19:26 UTC] PHP   1. {main}() /home/ubuntu/workspace/Digiudo/view/index.php:0
+[04-Jun-2016 17:19:26 UTC] PHP Warning:  include(): Failed opening 'http://fonts.googleapis.com/css?family=Roboto' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/Digiudo/view/index.php on line 12
+[04-Jun-2016 17:19:26 UTC] PHP Stack trace:
+[04-Jun-2016 17:19:26 UTC] PHP   1. {main}() /home/ubuntu/workspace/Digiudo/view/index.php:0
+[04-Jun-2016 17:19:27 UTC] PHP Warning:  include(): http:// wrapper is disabled in the server configuration by allow_url_include=0 in /home/ubuntu/workspace/Digiudo/view/index.php on line 9
+[04-Jun-2016 17:19:27 UTC] PHP Stack trace:
+[04-Jun-2016 17:19:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/Digiudo/view/index.php:0
+[04-Jun-2016 17:19:27 UTC] PHP Warning:  include(http://fonts.googleapis.com/css?family=Amaranth): failed to open stream: no suitable wrapper could be found in /home/ubuntu/workspace/Digiudo/view/index.php on line 9
+[04-Jun-2016 17:19:27 UTC] PHP Stack trace:
+[04-Jun-2016 17:19:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/Digiudo/view/index.php:0
+[04-Jun-2016 17:19:27 UTC] PHP Warning:  include(): Failed opening 'http://fonts.googleapis.com/css?family=Amaranth' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/Digiudo/view/index.php on line 9
+[04-Jun-2016 17:19:27 UTC] PHP Stack trace:
+[04-Jun-2016 17:19:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/Digiudo/view/index.php:0
+[04-Jun-2016 17:19:27 UTC] PHP Warning:  include(): http:// wrapper is disabled in the server configuration by allow_url_include=0 in /home/ubuntu/workspace/Digiudo/view/index.php on line 12
+[04-Jun-2016 17:19:27 UTC] PHP Stack trace:
+[04-Jun-2016 17:19:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/Digiudo/view/index.php:0
+[04-Jun-2016 17:19:27 UTC] PHP Warning:  include(http://fonts.googleapis.com/css?family=Roboto): failed to open stream: no suitable wrapper could be found in /home/ubuntu/workspace/Digiudo/view/index.php on line 12
+[04-Jun-2016 17:19:27 UTC] PHP Stack trace:
+[04-Jun-2016 17:19:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/Digiudo/view/index.php:0
+[04-Jun-2016 17:19:27 UTC] PHP Warning:  include(): Failed opening 'http://fonts.googleapis.com/css?family=Roboto' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/Digiudo/view/index.php on line 12
+[04-Jun-2016 17:19:27 UTC] PHP Stack trace:
+[04-Jun-2016 17:19:27 UTC] PHP   1. {main}() /home/ubuntu/workspace/Digiudo/view/index.php:0
+[04-Jun-2016 17:20:11 UTC] PHP Warning:  include(): http:// wrapper is disabled in the server configuration by allow_url_include=0 in /home/ubuntu/workspace/Digiudo/view/index.php on line 9
+[04-Jun-2016 17:20:11 UTC] PHP Stack trace:
+[04-Jun-2016 17:20:11 UTC] PHP   1. {main}() /home/ubuntu/workspace/Digiudo/view/index.php:0
+[04-Jun-2016 17:20:11 UTC] PHP Warning:  include(http://fonts.googleapis.com/css?family=Amaranth): failed to open stream: no suitable wrapper could be found in /home/ubuntu/workspace/Digiudo/view/index.php on line 9
+[04-Jun-2016 17:20:11 UTC] PHP Stack trace:
+[04-Jun-2016 17:20:11 UTC] PHP   1. {main}() /home/ubuntu/workspace/Digiudo/view/index.php:0
+[04-Jun-2016 17:20:11 UTC] PHP Warning:  include(): Failed opening 'http://fonts.googleapis.com/css?family=Amaranth' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/Digiudo/view/index.php on line 9
+[04-Jun-2016 17:20:11 UTC] PHP Stack trace:
+[04-Jun-2016 17:20:11 UTC] PHP   1. {main}() /home/ubuntu/workspace/Digiudo/view/index.php:0
+[04-Jun-2016 17:20:11 UTC] PHP Warning:  include(): http:// wrapper is disabled in the server configuration by allow_url_include=0 in /home/ubuntu/workspace/Digiudo/view/index.php on line 12
+[04-Jun-2016 17:20:11 UTC] PHP Stack trace:
+[04-Jun-2016 17:20:11 UTC] PHP   1. {main}() /home/ubuntu/workspace/Digiudo/view/index.php:0
+[04-Jun-2016 17:20:11 UTC] PHP Warning:  include(http://fonts.googleapis.com/css?family=Roboto): failed to open stream: no suitable wrapper could be found in /home/ubuntu/workspace/Digiudo/view/index.php on line 12
+[04-Jun-2016 17:20:11 UTC] PHP Stack trace:
+[04-Jun-2016 17:20:11 UTC] PHP   1. {main}() /home/ubuntu/workspace/Digiudo/view/index.php:0
+[04-Jun-2016 17:20:11 UTC] PHP Warning:  include(): Failed opening 'http://fonts.googleapis.com/css?family=Roboto' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/Digiudo/view/index.php on line 12
+[04-Jun-2016 17:20:11 UTC] PHP Stack trace:
+[04-Jun-2016 17:20:11 UTC] PHP   1. {main}() /home/ubuntu/workspace/Digiudo/view/index.php:0
+[04-Jun-2016 17:20:13 UTC] PHP Warning:  include(): http:// wrapper is disabled in the server configuration by allow_url_include=0 in /home/ubuntu/workspace/Digiudo/view/index.php on line 9
+[04-Jun-2016 17:20:13 UTC] PHP Stack trace:
+[04-Jun-2016 17:20:13 UTC] PHP   1. {main}() /home/ubuntu/workspace/Digiudo/view/index.php:0
+[04-Jun-2016 17:20:13 UTC] PHP Warning:  include(http://fonts.googleapis.com/css?family=Amaranth): failed to open stream: no suitable wrapper could be found in /home/ubuntu/workspace/Digiudo/view/index.php on line 9
+[04-Jun-2016 17:20:13 UTC] PHP Stack trace:
+[04-Jun-2016 17:20:13 UTC] PHP   1. {main}() /home/ubuntu/workspace/Digiudo/view/index.php:0
+[04-Jun-2016 17:20:13 UTC] PHP Warning:  include(): Failed opening 'http://fonts.googleapis.com/css?family=Amaranth' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/Digiudo/view/index.php on line 9
+[04-Jun-2016 17:20:13 UTC] PHP Stack trace:
+[04-Jun-2016 17:20:13 UTC] PHP   1. {main}() /home/ubuntu/workspace/Digiudo/view/index.php:0
+[04-Jun-2016 17:20:13 UTC] PHP Warning:  include(): http:// wrapper is disabled in the server configuration by allow_url_include=0 in /home/ubuntu/workspace/Digiudo/view/index.php on line 12
+[04-Jun-2016 17:20:13 UTC] PHP Stack trace:
+[04-Jun-2016 17:20:13 UTC] PHP   1. {main}() /home/ubuntu/workspace/Digiudo/view/index.php:0
+[04-Jun-2016 17:20:13 UTC] PHP Warning:  include(http://fonts.googleapis.com/css?family=Roboto): failed to open stream: no suitable wrapper could be found in /home/ubuntu/workspace/Digiudo/view/index.php on line 12
+[04-Jun-2016 17:20:13 UTC] PHP Stack trace:
+[04-Jun-2016 17:20:13 UTC] PHP   1. {main}() /home/ubuntu/workspace/Digiudo/view/index.php:0
+[04-Jun-2016 17:20:13 UTC] PHP Warning:  include(): Failed opening 'http://fonts.googleapis.com/css?family=Roboto' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/Digiudo/view/index.php on line 12
+[04-Jun-2016 17:20:13 UTC] PHP Stack trace:
+[04-Jun-2016 17:20:13 UTC] PHP   1. {main}() /home/ubuntu/workspace/Digiudo/view/index.php:0
+[04-Jun-2016 17:21:02 UTC] PHP Warning:  include(): http:// wrapper is disabled in the server configuration by allow_url_include=0 in /home/ubuntu/workspace/Digiudo/view/index.php on line 9
+[04-Jun-2016 17:21:02 UTC] PHP Stack trace:
+[04-Jun-2016 17:21:02 UTC] PHP   1. {main}() /home/ubuntu/workspace/Digiudo/view/index.php:0
+[04-Jun-2016 17:21:02 UTC] PHP Warning:  include(http://fonts.googleapis.com/css?family=Amaranth): failed to open stream: no suitable wrapper could be found in /home/ubuntu/workspace/Digiudo/view/index.php on line 9
+[04-Jun-2016 17:21:02 UTC] PHP Stack trace:
+[04-Jun-2016 17:21:02 UTC] PHP   1. {main}() /home/ubuntu/workspace/Digiudo/view/index.php:0
+[04-Jun-2016 17:21:02 UTC] PHP Warning:  include(): Failed opening 'http://fonts.googleapis.com/css?family=Amaranth' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/Digiudo/view/index.php on line 9
+[04-Jun-2016 17:21:02 UTC] PHP Stack trace:
+[04-Jun-2016 17:21:02 UTC] PHP   1. {main}() /home/ubuntu/workspace/Digiudo/view/index.php:0
+[04-Jun-2016 17:21:02 UTC] PHP Warning:  include(): http:// wrapper is disabled in the server configuration by allow_url_include=0 in /home/ubuntu/workspace/Digiudo/view/index.php on line 12
+[04-Jun-2016 17:21:02 UTC] PHP Stack trace:
+[04-Jun-2016 17:21:02 UTC] PHP   1. {main}() /home/ubuntu/workspace/Digiudo/view/index.php:0
+[04-Jun-2016 17:21:02 UTC] PHP Warning:  include(http://fonts.googleapis.com/css?family=Roboto): failed to open stream: no suitable wrapper could be found in /home/ubuntu/workspace/Digiudo/view/index.php on line 12
+[04-Jun-2016 17:21:02 UTC] PHP Stack trace:
+[04-Jun-2016 17:21:02 UTC] PHP   1. {main}() /home/ubuntu/workspace/Digiudo/view/index.php:0
+[04-Jun-2016 17:21:02 UTC] PHP Warning:  include(): Failed opening 'http://fonts.googleapis.com/css?family=Roboto' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/Digiudo/view/index.php on line 12
+[04-Jun-2016 17:21:02 UTC] PHP Stack trace:
+[04-Jun-2016 17:21:02 UTC] PHP   1. {main}() /home/ubuntu/workspace/Digiudo/view/index.php:0
+[04-Jun-2016 17:21:03 UTC] PHP Warning:  include(): http:// wrapper is disabled in the server configuration by allow_url_include=0 in /home/ubuntu/workspace/Digiudo/view/index.php on line 9
+[04-Jun-2016 17:21:03 UTC] PHP Stack trace:
+[04-Jun-2016 17:21:03 UTC] PHP   1. {main}() /home/ubuntu/workspace/Digiudo/view/index.php:0
+[04-Jun-2016 17:21:03 UTC] PHP Warning:  include(http://fonts.googleapis.com/css?family=Amaranth): failed to open stream: no suitable wrapper could be found in /home/ubuntu/workspace/Digiudo/view/index.php on line 9
+[04-Jun-2016 17:21:03 UTC] PHP Stack trace:
+[04-Jun-2016 17:21:03 UTC] PHP   1. {main}() /home/ubuntu/workspace/Digiudo/view/index.php:0
+[04-Jun-2016 17:21:03 UTC] PHP Warning:  include(): Failed opening 'http://fonts.googleapis.com/css?family=Amaranth' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/Digiudo/view/index.php on line 9
+[04-Jun-2016 17:21:03 UTC] PHP Stack trace:
+[04-Jun-2016 17:21:03 UTC] PHP   1. {main}() /home/ubuntu/workspace/Digiudo/view/index.php:0
+[04-Jun-2016 17:21:03 UTC] PHP Warning:  include(): http:// wrapper is disabled in the server configuration by allow_url_include=0 in /home/ubuntu/workspace/Digiudo/view/index.php on line 12
+[04-Jun-2016 17:21:03 UTC] PHP Stack trace:
+[04-Jun-2016 17:21:03 UTC] PHP   1. {main}() /home/ubuntu/workspace/Digiudo/view/index.php:0
+[04-Jun-2016 17:21:03 UTC] PHP Warning:  include(http://fonts.googleapis.com/css?family=Roboto): failed to open stream: no suitable wrapper could be found in /home/ubuntu/workspace/Digiudo/view/index.php on line 12
+[04-Jun-2016 17:21:03 UTC] PHP Stack trace:
+[04-Jun-2016 17:21:03 UTC] PHP   1. {main}() /home/ubuntu/workspace/Digiudo/view/index.php:0
+[04-Jun-2016 17:21:03 UTC] PHP Warning:  include(): Failed opening 'http://fonts.googleapis.com/css?family=Roboto' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/Digiudo/view/index.php on line 12
+[04-Jun-2016 17:21:03 UTC] PHP Stack trace:
+[04-Jun-2016 17:21:03 UTC] PHP   1. {main}() /home/ubuntu/workspace/Digiudo/view/index.php:0
+[04-Jun-2016 21:12:35 UTC] PHP Warning:  include(): http:// wrapper is disabled in the server configuration by allow_url_include=0 in /home/ubuntu/workspace/Digiudo/view/index.php on line 9
+[04-Jun-2016 21:12:35 UTC] PHP Stack trace:
+[04-Jun-2016 21:12:35 UTC] PHP   1. {main}() /home/ubuntu/workspace/Digiudo/view/index.php:0
+[04-Jun-2016 21:12:35 UTC] PHP Warning:  include(http://fonts.googleapis.com/css?family=Amaranth): failed to open stream: no suitable wrapper could be found in /home/ubuntu/workspace/Digiudo/view/index.php on line 9
+[04-Jun-2016 21:12:35 UTC] PHP Stack trace:
+[04-Jun-2016 21:12:35 UTC] PHP   1. {main}() /home/ubuntu/workspace/Digiudo/view/index.php:0
+[04-Jun-2016 21:12:35 UTC] PHP Warning:  include(): Failed opening 'http://fonts.googleapis.com/css?family=Amaranth' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/Digiudo/view/index.php on line 9
+[04-Jun-2016 21:12:35 UTC] PHP Stack trace:
+[04-Jun-2016 21:12:35 UTC] PHP   1. {main}() /home/ubuntu/workspace/Digiudo/view/index.php:0
+[04-Jun-2016 21:12:35 UTC] PHP Warning:  include(): http:// wrapper is disabled in the server configuration by allow_url_include=0 in /home/ubuntu/workspace/Digiudo/view/index.php on line 12
+[04-Jun-2016 21:12:35 UTC] PHP Stack trace:
+[04-Jun-2016 21:12:35 UTC] PHP   1. {main}() /home/ubuntu/workspace/Digiudo/view/index.php:0
+[04-Jun-2016 21:12:35 UTC] PHP Warning:  include(http://fonts.googleapis.com/css?family=Roboto): failed to open stream: no suitable wrapper could be found in /home/ubuntu/workspace/Digiudo/view/index.php on line 12
+[04-Jun-2016 21:12:35 UTC] PHP Stack trace:
+[04-Jun-2016 21:12:35 UTC] PHP   1. {main}() /home/ubuntu/workspace/Digiudo/view/index.php:0
+[04-Jun-2016 21:12:35 UTC] PHP Warning:  include(): Failed opening 'http://fonts.googleapis.com/css?family=Roboto' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/Digiudo/view/index.php on line 12
+[04-Jun-2016 21:12:35 UTC] PHP Stack trace:
+[04-Jun-2016 21:12:35 UTC] PHP   1. {main}() /home/ubuntu/workspace/Digiudo/view/index.php:0
+[04-Jun-2016 21:12:37 UTC] PHP Warning:  include(): http:// wrapper is disabled in the server configuration by allow_url_include=0 in /home/ubuntu/workspace/Digiudo/view/index.php on line 9
+[04-Jun-2016 21:12:37 UTC] PHP Stack trace:
+[04-Jun-2016 21:12:37 UTC] PHP   1. {main}() /home/ubuntu/workspace/Digiudo/view/index.php:0
+[04-Jun-2016 21:12:37 UTC] PHP Warning:  include(http://fonts.googleapis.com/css?family=Amaranth): failed to open stream: no suitable wrapper could be found in /home/ubuntu/workspace/Digiudo/view/index.php on line 9
+[04-Jun-2016 21:12:37 UTC] PHP Stack trace:
+[04-Jun-2016 21:12:37 UTC] PHP   1. {main}() /home/ubuntu/workspace/Digiudo/view/index.php:0
+[04-Jun-2016 21:12:37 UTC] PHP Warning:  include(): Failed opening 'http://fonts.googleapis.com/css?family=Amaranth' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/Digiudo/view/index.php on line 9
+[04-Jun-2016 21:12:37 UTC] PHP Stack trace:
+[04-Jun-2016 21:12:37 UTC] PHP   1. {main}() /home/ubuntu/workspace/Digiudo/view/index.php:0
+[04-Jun-2016 21:12:37 UTC] PHP Warning:  include(): http:// wrapper is disabled in the server configuration by allow_url_include=0 in /home/ubuntu/workspace/Digiudo/view/index.php on line 12
+[04-Jun-2016 21:12:37 UTC] PHP Stack trace:
+[04-Jun-2016 21:12:37 UTC] PHP   1. {main}() /home/ubuntu/workspace/Digiudo/view/index.php:0
+[04-Jun-2016 21:12:37 UTC] PHP Warning:  include(http://fonts.googleapis.com/css?family=Roboto): failed to open stream: no suitable wrapper could be found in /home/ubuntu/workspace/Digiudo/view/index.php on line 12
+[04-Jun-2016 21:12:37 UTC] PHP Stack trace:
+[04-Jun-2016 21:12:37 UTC] PHP   1. {main}() /home/ubuntu/workspace/Digiudo/view/index.php:0
+[04-Jun-2016 21:12:37 UTC] PHP Warning:  include(): Failed opening 'http://fonts.googleapis.com/css?family=Roboto' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/Digiudo/view/index.php on line 12
+[04-Jun-2016 21:12:37 UTC] PHP Stack trace:
+[04-Jun-2016 21:12:37 UTC] PHP   1. {main}() /home/ubuntu/workspace/Digiudo/view/index.php:0
+[04-Jun-2016 21:13:23 UTC] PHP Warning:  include(): http:// wrapper is disabled in the server configuration by allow_url_include=0 in /home/ubuntu/workspace/Digiudo/view/index.php on line 9
+[04-Jun-2016 21:13:23 UTC] PHP Stack trace:
+[04-Jun-2016 21:13:23 UTC] PHP   1. {main}() /home/ubuntu/workspace/Digiudo/view/index.php:0
+[04-Jun-2016 21:13:23 UTC] PHP Warning:  include(http://fonts.googleapis.com/css?family=Amaranth): failed to open stream: no suitable wrapper could be found in /home/ubuntu/workspace/Digiudo/view/index.php on line 9
+[04-Jun-2016 21:13:23 UTC] PHP Stack trace:
+[04-Jun-2016 21:13:23 UTC] PHP   1. {main}() /home/ubuntu/workspace/Digiudo/view/index.php:0
+[04-Jun-2016 21:13:23 UTC] PHP Warning:  include(): Failed opening 'http://fonts.googleapis.com/css?family=Amaranth' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/Digiudo/view/index.php on line 9
+[04-Jun-2016 21:13:23 UTC] PHP Stack trace:
+[04-Jun-2016 21:13:23 UTC] PHP   1. {main}() /home/ubuntu/workspace/Digiudo/view/index.php:0
+[04-Jun-2016 21:13:23 UTC] PHP Warning:  include(): http:// wrapper is disabled in the server configuration by allow_url_include=0 in /home/ubuntu/workspace/Digiudo/view/index.php on line 12
+[04-Jun-2016 21:13:23 UTC] PHP Stack trace:
+[04-Jun-2016 21:13:23 UTC] PHP   1. {main}() /home/ubuntu/workspace/Digiudo/view/index.php:0
+[04-Jun-2016 21:13:23 UTC] PHP Warning:  include(http://fonts.googleapis.com/css?family=Roboto): failed to open stream: no suitable wrapper could be found in /home/ubuntu/workspace/Digiudo/view/index.php on line 12
+[04-Jun-2016 21:13:23 UTC] PHP Stack trace:
+[04-Jun-2016 21:13:23 UTC] PHP   1. {main}() /home/ubuntu/workspace/Digiudo/view/index.php:0
+[04-Jun-2016 21:13:23 UTC] PHP Warning:  include(): Failed opening 'http://fonts.googleapis.com/css?family=Roboto' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/Digiudo/view/index.php on line 12
+[04-Jun-2016 21:13:23 UTC] PHP Stack trace:
+[04-Jun-2016 21:13:23 UTC] PHP   1. {main}() /home/ubuntu/workspace/Digiudo/view/index.php:0
+[04-Jun-2016 21:13:26 UTC] PHP Warning:  include(): http:// wrapper is disabled in the server configuration by allow_url_include=0 in /home/ubuntu/workspace/Digiudo/view/index.php on line 9
+[04-Jun-2016 21:13:26 UTC] PHP Stack trace:
+[04-Jun-2016 21:13:26 UTC] PHP   1. {main}() /home/ubuntu/workspace/Digiudo/view/index.php:0
+[04-Jun-2016 21:13:26 UTC] PHP Warning:  include(http://fonts.googleapis.com/css?family=Amaranth): failed to open stream: no suitable wrapper could be found in /home/ubuntu/workspace/Digiudo/view/index.php on line 9
+[04-Jun-2016 21:13:26 UTC] PHP Stack trace:
+[04-Jun-2016 21:13:26 UTC] PHP   1. {main}() /home/ubuntu/workspace/Digiudo/view/index.php:0
+[04-Jun-2016 21:13:26 UTC] PHP Warning:  include(): Failed opening 'http://fonts.googleapis.com/css?family=Amaranth' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/Digiudo/view/index.php on line 9
+[04-Jun-2016 21:13:26 UTC] PHP Stack trace:
+[04-Jun-2016 21:13:26 UTC] PHP   1. {main}() /home/ubuntu/workspace/Digiudo/view/index.php:0
+[04-Jun-2016 21:13:26 UTC] PHP Warning:  include(): http:// wrapper is disabled in the server configuration by allow_url_include=0 in /home/ubuntu/workspace/Digiudo/view/index.php on line 12
+[04-Jun-2016 21:13:26 UTC] PHP Stack trace:
+[04-Jun-2016 21:13:26 UTC] PHP   1. {main}() /home/ubuntu/workspace/Digiudo/view/index.php:0
+[04-Jun-2016 21:13:26 UTC] PHP Warning:  include(http://fonts.googleapis.com/css?family=Roboto): failed to open stream: no suitable wrapper could be found in /home/ubuntu/workspace/Digiudo/view/index.php on line 12
+[04-Jun-2016 21:13:26 UTC] PHP Stack trace:
+[04-Jun-2016 21:13:26 UTC] PHP   1. {main}() /home/ubuntu/workspace/Digiudo/view/index.php:0
+[04-Jun-2016 21:13:26 UTC] PHP Warning:  include(): Failed opening 'http://fonts.googleapis.com/css?family=Roboto' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/Digiudo/view/index.php on line 12
+[04-Jun-2016 21:13:26 UTC] PHP Stack trace:
+[04-Jun-2016 21:13:26 UTC] PHP   1. {main}() /home/ubuntu/workspace/Digiudo/view/index.php:0
+[04-Jun-2016 21:15:59 UTC] PHP Warning:  include(): http:// wrapper is disabled in the server configuration by allow_url_include=0 in /home/ubuntu/workspace/Digiudo/view/index.php on line 9
+[04-Jun-2016 21:15:59 UTC] PHP Stack trace:
+[04-Jun-2016 21:15:59 UTC] PHP   1. {main}() /home/ubuntu/workspace/Digiudo/view/index.php:0
+[04-Jun-2016 21:15:59 UTC] PHP Warning:  include(http://fonts.googleapis.com/css?family=Amaranth): failed to open stream: no suitable wrapper could be found in /home/ubuntu/workspace/Digiudo/view/index.php on line 9
+[04-Jun-2016 21:15:59 UTC] PHP Stack trace:
+[04-Jun-2016 21:15:59 UTC] PHP   1. {main}() /home/ubuntu/workspace/Digiudo/view/index.php:0
+[04-Jun-2016 21:15:59 UTC] PHP Warning:  include(): Failed opening 'http://fonts.googleapis.com/css?family=Amaranth' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/Digiudo/view/index.php on line 9
+[04-Jun-2016 21:15:59 UTC] PHP Stack trace:
+[04-Jun-2016 21:15:59 UTC] PHP   1. {main}() /home/ubuntu/workspace/Digiudo/view/index.php:0
+[04-Jun-2016 21:15:59 UTC] PHP Warning:  include(): http:// wrapper is disabled in the server configuration by allow_url_include=0 in /home/ubuntu/workspace/Digiudo/view/index.php on line 12
+[04-Jun-2016 21:15:59 UTC] PHP Stack trace:
+[04-Jun-2016 21:15:59 UTC] PHP   1. {main}() /home/ubuntu/workspace/Digiudo/view/index.php:0
+[04-Jun-2016 21:15:59 UTC] PHP Warning:  include(http://fonts.googleapis.com/css?family=Roboto): failed to open stream: no suitable wrapper could be found in /home/ubuntu/workspace/Digiudo/view/index.php on line 12
+[04-Jun-2016 21:15:59 UTC] PHP Stack trace:
+[04-Jun-2016 21:15:59 UTC] PHP   1. {main}() /home/ubuntu/workspace/Digiudo/view/index.php:0
+[04-Jun-2016 21:15:59 UTC] PHP Warning:  include(): Failed opening 'http://fonts.googleapis.com/css?family=Roboto' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/Digiudo/view/index.php on line 12
+[04-Jun-2016 21:15:59 UTC] PHP Stack trace:
+[04-Jun-2016 21:15:59 UTC] PHP   1. {main}() /home/ubuntu/workspace/Digiudo/view/index.php:0
+[04-Jun-2016 21:16:01 UTC] PHP Warning:  include(): http:// wrapper is disabled in the server configuration by allow_url_include=0 in /home/ubuntu/workspace/Digiudo/view/index.php on line 9
+[04-Jun-2016 21:16:01 UTC] PHP Stack trace:
+[04-Jun-2016 21:16:01 UTC] PHP   1. {main}() /home/ubuntu/workspace/Digiudo/view/index.php:0
+[04-Jun-2016 21:16:01 UTC] PHP Warning:  include(http://fonts.googleapis.com/css?family=Amaranth): failed to open stream: no suitable wrapper could be found in /home/ubuntu/workspace/Digiudo/view/index.php on line 9
+[04-Jun-2016 21:16:01 UTC] PHP Stack trace:
+[04-Jun-2016 21:16:01 UTC] PHP   1. {main}() /home/ubuntu/workspace/Digiudo/view/index.php:0
+[04-Jun-2016 21:16:01 UTC] PHP Warning:  include(): Failed opening 'http://fonts.googleapis.com/css?family=Amaranth' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/Digiudo/view/index.php on line 9
+[04-Jun-2016 21:16:01 UTC] PHP Stack trace:
+[04-Jun-2016 21:16:01 UTC] PHP   1. {main}() /home/ubuntu/workspace/Digiudo/view/index.php:0
+[04-Jun-2016 21:16:01 UTC] PHP Warning:  include(): http:// wrapper is disabled in the server configuration by allow_url_include=0 in /home/ubuntu/workspace/Digiudo/view/index.php on line 12
+[04-Jun-2016 21:16:01 UTC] PHP Stack trace:
+[04-Jun-2016 21:16:01 UTC] PHP   1. {main}() /home/ubuntu/workspace/Digiudo/view/index.php:0
+[04-Jun-2016 21:16:01 UTC] PHP Warning:  include(http://fonts.googleapis.com/css?family=Roboto): failed to open stream: no suitable wrapper could be found in /home/ubuntu/workspace/Digiudo/view/index.php on line 12
+[04-Jun-2016 21:16:01 UTC] PHP Stack trace:
+[04-Jun-2016 21:16:01 UTC] PHP   1. {main}() /home/ubuntu/workspace/Digiudo/view/index.php:0
+[04-Jun-2016 21:16:01 UTC] PHP Warning:  include(): Failed opening 'http://fonts.googleapis.com/css?family=Roboto' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/Digiudo/view/index.php on line 12
+[04-Jun-2016 21:16:01 UTC] PHP Stack trace:
+[04-Jun-2016 21:16:01 UTC] PHP   1. {main}() /home/ubuntu/workspace/Digiudo/view/index.php:0
+[08-Jun-2016 00:54:06 UTC] PHP Warning:  include(): http:// wrapper is disabled in the server configuration by allow_url_include=0 in /home/ubuntu/workspace/digiudo/view/index.php on line 9
+[08-Jun-2016 00:54:06 UTC] PHP Stack trace:
+[08-Jun-2016 00:54:06 UTC] PHP   1. {main}() /home/ubuntu/workspace/digiudo/view/index.php:0
+[08-Jun-2016 00:54:06 UTC] PHP Warning:  include(http://fonts.googleapis.com/css?family=Amaranth): failed to open stream: no suitable wrapper could be found in /home/ubuntu/workspace/digiudo/view/index.php on line 9
+[08-Jun-2016 00:54:06 UTC] PHP Stack trace:
+[08-Jun-2016 00:54:06 UTC] PHP   1. {main}() /home/ubuntu/workspace/digiudo/view/index.php:0
+[08-Jun-2016 00:54:06 UTC] PHP Warning:  include(): Failed opening 'http://fonts.googleapis.com/css?family=Amaranth' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/digiudo/view/index.php on line 9
+[08-Jun-2016 00:54:06 UTC] PHP Stack trace:
+[08-Jun-2016 00:54:06 UTC] PHP   1. {main}() /home/ubuntu/workspace/digiudo/view/index.php:0
+[08-Jun-2016 00:54:06 UTC] PHP Warning:  include(): http:// wrapper is disabled in the server configuration by allow_url_include=0 in /home/ubuntu/workspace/digiudo/view/index.php on line 12
+[08-Jun-2016 00:54:06 UTC] PHP Stack trace:
+[08-Jun-2016 00:54:06 UTC] PHP   1. {main}() /home/ubuntu/workspace/digiudo/view/index.php:0
+[08-Jun-2016 00:54:06 UTC] PHP Warning:  include(http://fonts.googleapis.com/css?family=Roboto): failed to open stream: no suitable wrapper could be found in /home/ubuntu/workspace/digiudo/view/index.php on line 12
+[08-Jun-2016 00:54:06 UTC] PHP Stack trace:
+[08-Jun-2016 00:54:06 UTC] PHP   1. {main}() /home/ubuntu/workspace/digiudo/view/index.php:0
+[08-Jun-2016 00:54:06 UTC] PHP Warning:  include(): Failed opening 'http://fonts.googleapis.com/css?family=Roboto' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/digiudo/view/index.php on line 12
+[08-Jun-2016 00:54:06 UTC] PHP Stack trace:
+[08-Jun-2016 00:54:06 UTC] PHP   1. {main}() /home/ubuntu/workspace/digiudo/view/index.php:0
+[08-Jun-2016 00:54:09 UTC] PHP Warning:  include(): http:// wrapper is disabled in the server configuration by allow_url_include=0 in /home/ubuntu/workspace/digiudo/view/index.php on line 9
+[08-Jun-2016 00:54:09 UTC] PHP Stack trace:
+[08-Jun-2016 00:54:09 UTC] PHP   1. {main}() /home/ubuntu/workspace/digiudo/view/index.php:0
+[08-Jun-2016 00:54:09 UTC] PHP Warning:  include(http://fonts.googleapis.com/css?family=Amaranth): failed to open stream: no suitable wrapper could be found in /home/ubuntu/workspace/digiudo/view/index.php on line 9
+[08-Jun-2016 00:54:09 UTC] PHP Stack trace:
+[08-Jun-2016 00:54:09 UTC] PHP   1. {main}() /home/ubuntu/workspace/digiudo/view/index.php:0
+[08-Jun-2016 00:54:09 UTC] PHP Warning:  include(): Failed opening 'http://fonts.googleapis.com/css?family=Amaranth' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/digiudo/view/index.php on line 9
+[08-Jun-2016 00:54:09 UTC] PHP Stack trace:
+[08-Jun-2016 00:54:09 UTC] PHP   1. {main}() /home/ubuntu/workspace/digiudo/view/index.php:0
+[08-Jun-2016 00:54:09 UTC] PHP Warning:  include(): http:// wrapper is disabled in the server configuration by allow_url_include=0 in /home/ubuntu/workspace/digiudo/view/index.php on line 12
+[08-Jun-2016 00:54:09 UTC] PHP Stack trace:
+[08-Jun-2016 00:54:09 UTC] PHP   1. {main}() /home/ubuntu/workspace/digiudo/view/index.php:0
+[08-Jun-2016 00:54:09 UTC] PHP Warning:  include(http://fonts.googleapis.com/css?family=Roboto): failed to open stream: no suitable wrapper could be found in /home/ubuntu/workspace/digiudo/view/index.php on line 12
+[08-Jun-2016 00:54:09 UTC] PHP Stack trace:
+[08-Jun-2016 00:54:09 UTC] PHP   1. {main}() /home/ubuntu/workspace/digiudo/view/index.php:0
+[08-Jun-2016 00:54:09 UTC] PHP Warning:  include(): Failed opening 'http://fonts.googleapis.com/css?family=Roboto' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/digiudo/view/index.php on line 12
+[08-Jun-2016 00:54:09 UTC] PHP Stack trace:
+[08-Jun-2016 00:54:09 UTC] PHP   1. {main}() /home/ubuntu/workspace/digiudo/view/index.php:0
+[08-Jun-2016 12:40:48 UTC] PHP Warning:  include(): http:// wrapper is disabled in the server configuration by allow_url_include=0 in /home/ubuntu/workspace/digiudo/view/index.php on line 9
+[08-Jun-2016 12:40:48 UTC] PHP Stack trace:
+[08-Jun-2016 12:40:48 UTC] PHP   1. {main}() /home/ubuntu/workspace/digiudo/view/index.php:0
+[08-Jun-2016 12:40:48 UTC] PHP Warning:  include(http://fonts.googleapis.com/css?family=Amaranth): failed to open stream: no suitable wrapper could be found in /home/ubuntu/workspace/digiudo/view/index.php on line 9
+[08-Jun-2016 12:40:48 UTC] PHP Stack trace:
+[08-Jun-2016 12:40:48 UTC] PHP   1. {main}() /home/ubuntu/workspace/digiudo/view/index.php:0
+[08-Jun-2016 12:40:48 UTC] PHP Warning:  include(): Failed opening 'http://fonts.googleapis.com/css?family=Amaranth' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/digiudo/view/index.php on line 9
+[08-Jun-2016 12:40:48 UTC] PHP Stack trace:
+[08-Jun-2016 12:40:48 UTC] PHP   1. {main}() /home/ubuntu/workspace/digiudo/view/index.php:0
+[08-Jun-2016 12:40:48 UTC] PHP Warning:  include(): http:// wrapper is disabled in the server configuration by allow_url_include=0 in /home/ubuntu/workspace/digiudo/view/index.php on line 12
+[08-Jun-2016 12:40:48 UTC] PHP Stack trace:
+[08-Jun-2016 12:40:48 UTC] PHP   1. {main}() /home/ubuntu/workspace/digiudo/view/index.php:0
+[08-Jun-2016 12:40:48 UTC] PHP Warning:  include(http://fonts.googleapis.com/css?family=Roboto): failed to open stream: no suitable wrapper could be found in /home/ubuntu/workspace/digiudo/view/index.php on line 12
+[08-Jun-2016 12:40:48 UTC] PHP Stack trace:
+[08-Jun-2016 12:40:48 UTC] PHP   1. {main}() /home/ubuntu/workspace/digiudo/view/index.php:0
+[08-Jun-2016 12:40:48 UTC] PHP Warning:  include(): Failed opening 'http://fonts.googleapis.com/css?family=Roboto' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/digiudo/view/index.php on line 12
+[08-Jun-2016 12:40:48 UTC] PHP Stack trace:
+[08-Jun-2016 12:40:48 UTC] PHP   1. {main}() /home/ubuntu/workspace/digiudo/view/index.php:0
+[08-Jun-2016 12:40:51 UTC] PHP Warning:  include(): http:// wrapper is disabled in the server configuration by allow_url_include=0 in /home/ubuntu/workspace/digiudo/view/index.php on line 9
+[08-Jun-2016 12:40:51 UTC] PHP Stack trace:
+[08-Jun-2016 12:40:51 UTC] PHP   1. {main}() /home/ubuntu/workspace/digiudo/view/index.php:0
+[08-Jun-2016 12:40:51 UTC] PHP Warning:  include(http://fonts.googleapis.com/css?family=Amaranth): failed to open stream: no suitable wrapper could be found in /home/ubuntu/workspace/digiudo/view/index.php on line 9
+[08-Jun-2016 12:40:51 UTC] PHP Stack trace:
+[08-Jun-2016 12:40:51 UTC] PHP   1. {main}() /home/ubuntu/workspace/digiudo/view/index.php:0
+[08-Jun-2016 12:40:51 UTC] PHP Warning:  include(): Failed opening 'http://fonts.googleapis.com/css?family=Amaranth' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/digiudo/view/index.php on line 9
+[08-Jun-2016 12:40:51 UTC] PHP Stack trace:
+[08-Jun-2016 12:40:51 UTC] PHP   1. {main}() /home/ubuntu/workspace/digiudo/view/index.php:0
+[08-Jun-2016 12:40:51 UTC] PHP Warning:  include(): http:// wrapper is disabled in the server configuration by allow_url_include=0 in /home/ubuntu/workspace/digiudo/view/index.php on line 12
+[08-Jun-2016 12:40:51 UTC] PHP Stack trace:
+[08-Jun-2016 12:40:51 UTC] PHP   1. {main}() /home/ubuntu/workspace/digiudo/view/index.php:0
+[08-Jun-2016 12:40:51 UTC] PHP Warning:  include(http://fonts.googleapis.com/css?family=Roboto): failed to open stream: no suitable wrapper could be found in /home/ubuntu/workspace/digiudo/view/index.php on line 12
+[08-Jun-2016 12:40:51 UTC] PHP Stack trace:
+[08-Jun-2016 12:40:51 UTC] PHP   1. {main}() /home/ubuntu/workspace/digiudo/view/index.php:0
+[08-Jun-2016 12:40:51 UTC] PHP Warning:  include(): Failed opening 'http://fonts.googleapis.com/css?family=Roboto' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/digiudo/view/index.php on line 12
+[08-Jun-2016 12:40:51 UTC] PHP Stack trace:
+[08-Jun-2016 12:40:51 UTC] PHP   1. {main}() /home/ubuntu/workspace/digiudo/view/index.php:0
+[08-Jun-2016 12:40:52 UTC] PHP Warning:  include(): http:// wrapper is disabled in the server configuration by allow_url_include=0 in /home/ubuntu/workspace/digiudo/view/index.php on line 9
+[08-Jun-2016 12:40:52 UTC] PHP Stack trace:
+[08-Jun-2016 12:40:52 UTC] PHP   1. {main}() /home/ubuntu/workspace/digiudo/view/index.php:0
+[08-Jun-2016 12:40:52 UTC] PHP Warning:  include(http://fonts.googleapis.com/css?family=Amaranth): failed to open stream: no suitable wrapper could be found in /home/ubuntu/workspace/digiudo/view/index.php on line 9
+[08-Jun-2016 12:40:52 UTC] PHP Stack trace:
+[08-Jun-2016 12:40:52 UTC] PHP   1. {main}() /home/ubuntu/workspace/digiudo/view/index.php:0
+[08-Jun-2016 12:40:52 UTC] PHP Warning:  include(): Failed opening 'http://fonts.googleapis.com/css?family=Amaranth' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/digiudo/view/index.php on line 9
+[08-Jun-2016 12:40:52 UTC] PHP Stack trace:
+[08-Jun-2016 12:40:52 UTC] PHP   1. {main}() /home/ubuntu/workspace/digiudo/view/index.php:0
+[08-Jun-2016 12:40:52 UTC] PHP Warning:  include(): http:// wrapper is disabled in the server configuration by allow_url_include=0 in /home/ubuntu/workspace/digiudo/view/index.php on line 12
+[08-Jun-2016 12:40:52 UTC] PHP Stack trace:
+[08-Jun-2016 12:40:52 UTC] PHP   1. {main}() /home/ubuntu/workspace/digiudo/view/index.php:0
+[08-Jun-2016 12:40:52 UTC] PHP Warning:  include(http://fonts.googleapis.com/css?family=Roboto): failed to open stream: no suitable wrapper could be found in /home/ubuntu/workspace/digiudo/view/index.php on line 12
+[08-Jun-2016 12:40:52 UTC] PHP Stack trace:
+[08-Jun-2016 12:40:52 UTC] PHP   1. {main}() /home/ubuntu/workspace/digiudo/view/index.php:0
+[08-Jun-2016 12:40:52 UTC] PHP Warning:  include(): Failed opening 'http://fonts.googleapis.com/css?family=Roboto' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/digiudo/view/index.php on line 12
+[08-Jun-2016 12:40:52 UTC] PHP Stack trace:
+[08-Jun-2016 12:40:52 UTC] PHP   1. {main}() /home/ubuntu/workspace/digiudo/view/index.php:0
+[08-Jun-2016 12:40:53 UTC] PHP Warning:  include(): http:// wrapper is disabled in the server configuration by allow_url_include=0 in /home/ubuntu/workspace/digiudo/view/index.php on line 9
+[08-Jun-2016 12:40:53 UTC] PHP Stack trace:
+[08-Jun-2016 12:40:53 UTC] PHP   1. {main}() /home/ubuntu/workspace/digiudo/view/index.php:0
+[08-Jun-2016 12:40:53 UTC] PHP Warning:  include(http://fonts.googleapis.com/css?family=Amaranth): failed to open stream: no suitable wrapper could be found in /home/ubuntu/workspace/digiudo/view/index.php on line 9
+[08-Jun-2016 12:40:53 UTC] PHP Stack trace:
+[08-Jun-2016 12:40:53 UTC] PHP   1. {main}() /home/ubuntu/workspace/digiudo/view/index.php:0
+[08-Jun-2016 12:40:53 UTC] PHP Warning:  include(): Failed opening 'http://fonts.googleapis.com/css?family=Amaranth' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/digiudo/view/index.php on line 9
+[08-Jun-2016 12:40:53 UTC] PHP Stack trace:
+[08-Jun-2016 12:40:53 UTC] PHP   1. {main}() /home/ubuntu/workspace/digiudo/view/index.php:0
+[08-Jun-2016 12:40:53 UTC] PHP Warning:  include(): http:// wrapper is disabled in the server configuration by allow_url_include=0 in /home/ubuntu/workspace/digiudo/view/index.php on line 12
+[08-Jun-2016 12:40:53 UTC] PHP Stack trace:
+[08-Jun-2016 12:40:53 UTC] PHP   1. {main}() /home/ubuntu/workspace/digiudo/view/index.php:0
+[08-Jun-2016 12:40:53 UTC] PHP Warning:  include(http://fonts.googleapis.com/css?family=Roboto): failed to open stream: no suitable wrapper could be found in /home/ubuntu/workspace/digiudo/view/index.php on line 12
+[08-Jun-2016 12:40:53 UTC] PHP Stack trace:
+[08-Jun-2016 12:40:53 UTC] PHP   1. {main}() /home/ubuntu/workspace/digiudo/view/index.php:0
+[08-Jun-2016 12:40:53 UTC] PHP Warning:  include(): Failed opening 'http://fonts.googleapis.com/css?family=Roboto' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/digiudo/view/index.php on line 12
+[08-Jun-2016 12:40:53 UTC] PHP Stack trace:
+[08-Jun-2016 12:40:53 UTC] PHP   1. {main}() /home/ubuntu/workspace/digiudo/view/index.php:0
+[08-Jun-2016 12:41:39 UTC] PHP Warning:  include(): http:// wrapper is disabled in the server configuration by allow_url_include=0 in /home/ubuntu/workspace/digiudo/view/index.php on line 9
+[08-Jun-2016 12:41:39 UTC] PHP Stack trace:
+[08-Jun-2016 12:41:39 UTC] PHP   1. {main}() /home/ubuntu/workspace/digiudo/view/index.php:0
+[08-Jun-2016 12:41:39 UTC] PHP Warning:  include(http://fonts.googleapis.com/css?family=Amaranth): failed to open stream: no suitable wrapper could be found in /home/ubuntu/workspace/digiudo/view/index.php on line 9
+[08-Jun-2016 12:41:39 UTC] PHP Stack trace:
+[08-Jun-2016 12:41:39 UTC] PHP   1. {main}() /home/ubuntu/workspace/digiudo/view/index.php:0
+[08-Jun-2016 12:41:39 UTC] PHP Warning:  include(): Failed opening 'http://fonts.googleapis.com/css?family=Amaranth' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/digiudo/view/index.php on line 9
+[08-Jun-2016 12:41:39 UTC] PHP Stack trace:
+[08-Jun-2016 12:41:39 UTC] PHP   1. {main}() /home/ubuntu/workspace/digiudo/view/index.php:0
+[08-Jun-2016 12:41:39 UTC] PHP Warning:  include(): http:// wrapper is disabled in the server configuration by allow_url_include=0 in /home/ubuntu/workspace/digiudo/view/index.php on line 12
+[08-Jun-2016 12:41:39 UTC] PHP Stack trace:
+[08-Jun-2016 12:41:39 UTC] PHP   1. {main}() /home/ubuntu/workspace/digiudo/view/index.php:0
+[08-Jun-2016 12:41:39 UTC] PHP Warning:  include(http://fonts.googleapis.com/css?family=Roboto): failed to open stream: no suitable wrapper could be found in /home/ubuntu/workspace/digiudo/view/index.php on line 12
+[08-Jun-2016 12:41:39 UTC] PHP Stack trace:
+[08-Jun-2016 12:41:39 UTC] PHP   1. {main}() /home/ubuntu/workspace/digiudo/view/index.php:0
+[08-Jun-2016 12:41:39 UTC] PHP Warning:  include(): Failed opening 'http://fonts.googleapis.com/css?family=Roboto' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/digiudo/view/index.php on line 12
+[08-Jun-2016 12:41:39 UTC] PHP Stack trace:
+[08-Jun-2016 12:41:39 UTC] PHP   1. {main}() /home/ubuntu/workspace/digiudo/view/index.php:0
+[08-Jun-2016 12:41:41 UTC] PHP Warning:  include(): http:// wrapper is disabled in the server configuration by allow_url_include=0 in /home/ubuntu/workspace/digiudo/view/index.php on line 9
+[08-Jun-2016 12:41:41 UTC] PHP Stack trace:
+[08-Jun-2016 12:41:41 UTC] PHP   1. {main}() /home/ubuntu/workspace/digiudo/view/index.php:0
+[08-Jun-2016 12:41:41 UTC] PHP Warning:  include(http://fonts.googleapis.com/css?family=Amaranth): failed to open stream: no suitable wrapper could be found in /home/ubuntu/workspace/digiudo/view/index.php on line 9
+[08-Jun-2016 12:41:41 UTC] PHP Stack trace:
+[08-Jun-2016 12:41:41 UTC] PHP   1. {main}() /home/ubuntu/workspace/digiudo/view/index.php:0
+[08-Jun-2016 12:41:41 UTC] PHP Warning:  include(): Failed opening 'http://fonts.googleapis.com/css?family=Amaranth' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/digiudo/view/index.php on line 9
+[08-Jun-2016 12:41:41 UTC] PHP Stack trace:
+[08-Jun-2016 12:41:41 UTC] PHP   1. {main}() /home/ubuntu/workspace/digiudo/view/index.php:0
+[08-Jun-2016 12:41:41 UTC] PHP Warning:  include(): http:// wrapper is disabled in the server configuration by allow_url_include=0 in /home/ubuntu/workspace/digiudo/view/index.php on line 12
+[08-Jun-2016 12:41:41 UTC] PHP Stack trace:
+[08-Jun-2016 12:41:41 UTC] PHP   1. {main}() /home/ubuntu/workspace/digiudo/view/index.php:0
+[08-Jun-2016 12:41:41 UTC] PHP Warning:  include(http://fonts.googleapis.com/css?family=Roboto): failed to open stream: no suitable wrapper could be found in /home/ubuntu/workspace/digiudo/view/index.php on line 12
+[08-Jun-2016 12:41:41 UTC] PHP Stack trace:
+[08-Jun-2016 12:41:41 UTC] PHP   1. {main}() /home/ubuntu/workspace/digiudo/view/index.php:0
+[08-Jun-2016 12:41:41 UTC] PHP Warning:  include(): Failed opening 'http://fonts.googleapis.com/css?family=Roboto' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/digiudo/view/index.php on line 12
+[08-Jun-2016 12:41:41 UTC] PHP Stack trace:
+[08-Jun-2016 12:41:41 UTC] PHP   1. {main}() /home/ubuntu/workspace/digiudo/view/index.php:0
+[08-Jun-2016 12:41:42 UTC] PHP Warning:  include(): http:// wrapper is disabled in the server configuration by allow_url_include=0 in /home/ubuntu/workspace/digiudo/view/index.php on line 9
+[08-Jun-2016 12:41:42 UTC] PHP Stack trace:
+[08-Jun-2016 12:41:42 UTC] PHP   1. {main}() /home/ubuntu/workspace/digiudo/view/index.php:0
+[08-Jun-2016 12:41:42 UTC] PHP Warning:  include(http://fonts.googleapis.com/css?family=Amaranth): failed to open stream: no suitable wrapper could be found in /home/ubuntu/workspace/digiudo/view/index.php on line 9
+[08-Jun-2016 12:41:42 UTC] PHP Stack trace:
+[08-Jun-2016 12:41:42 UTC] PHP   1. {main}() /home/ubuntu/workspace/digiudo/view/index.php:0
+[08-Jun-2016 12:41:42 UTC] PHP Warning:  include(): Failed opening 'http://fonts.googleapis.com/css?family=Amaranth' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/digiudo/view/index.php on line 9
+[08-Jun-2016 12:41:42 UTC] PHP Stack trace:
+[08-Jun-2016 12:41:42 UTC] PHP   1. {main}() /home/ubuntu/workspace/digiudo/view/index.php:0
+[08-Jun-2016 12:41:42 UTC] PHP Warning:  include(): http:// wrapper is disabled in the server configuration by allow_url_include=0 in /home/ubuntu/workspace/digiudo/view/index.php on line 12
+[08-Jun-2016 12:41:42 UTC] PHP Stack trace:
+[08-Jun-2016 12:41:42 UTC] PHP   1. {main}() /home/ubuntu/workspace/digiudo/view/index.php:0
+[08-Jun-2016 12:41:42 UTC] PHP Warning:  include(http://fonts.googleapis.com/css?family=Roboto): failed to open stream: no suitable wrapper could be found in /home/ubuntu/workspace/digiudo/view/index.php on line 12
+[08-Jun-2016 12:41:42 UTC] PHP Stack trace:
+[08-Jun-2016 12:41:42 UTC] PHP   1. {main}() /home/ubuntu/workspace/digiudo/view/index.php:0
+[08-Jun-2016 12:41:42 UTC] PHP Warning:  include(): Failed opening 'http://fonts.googleapis.com/css?family=Roboto' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/digiudo/view/index.php on line 12
+[08-Jun-2016 12:41:42 UTC] PHP Stack trace:
+[08-Jun-2016 12:41:42 UTC] PHP   1. {main}() /home/ubuntu/workspace/digiudo/view/index.php:0
+[08-Jun-2016 12:41:42 UTC] PHP Warning:  include(): http:// wrapper is disabled in the server configuration by allow_url_include=0 in /home/ubuntu/workspace/digiudo/view/index.php on line 9
+[08-Jun-2016 12:41:42 UTC] PHP Stack trace:
+[08-Jun-2016 12:41:42 UTC] PHP   1. {main}() /home/ubuntu/workspace/digiudo/view/index.php:0
+[08-Jun-2016 12:41:42 UTC] PHP Warning:  include(http://fonts.googleapis.com/css?family=Amaranth): failed to open stream: no suitable wrapper could be found in /home/ubuntu/workspace/digiudo/view/index.php on line 9
+[08-Jun-2016 12:41:42 UTC] PHP Stack trace:
+[08-Jun-2016 12:41:42 UTC] PHP   1. {main}() /home/ubuntu/workspace/digiudo/view/index.php:0
+[08-Jun-2016 12:41:42 UTC] PHP Warning:  include(): Failed opening 'http://fonts.googleapis.com/css?family=Amaranth' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/digiudo/view/index.php on line 9
+[08-Jun-2016 12:41:42 UTC] PHP Stack trace:
+[08-Jun-2016 12:41:42 UTC] PHP   1. {main}() /home/ubuntu/workspace/digiudo/view/index.php:0
+[08-Jun-2016 12:41:42 UTC] PHP Warning:  include(): http:// wrapper is disabled in the server configuration by allow_url_include=0 in /home/ubuntu/workspace/digiudo/view/index.php on line 12
+[08-Jun-2016 12:41:42 UTC] PHP Stack trace:
+[08-Jun-2016 12:41:42 UTC] PHP   1. {main}() /home/ubuntu/workspace/digiudo/view/index.php:0
+[08-Jun-2016 12:41:42 UTC] PHP Warning:  include(http://fonts.googleapis.com/css?family=Roboto): failed to open stream: no suitable wrapper could be found in /home/ubuntu/workspace/digiudo/view/index.php on line 12
+[08-Jun-2016 12:41:42 UTC] PHP Stack trace:
+[08-Jun-2016 12:41:42 UTC] PHP   1. {main}() /home/ubuntu/workspace/digiudo/view/index.php:0
+[08-Jun-2016 12:41:42 UTC] PHP Warning:  include(): Failed opening 'http://fonts.googleapis.com/css?family=Roboto' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/digiudo/view/index.php on line 12
+[08-Jun-2016 12:41:42 UTC] PHP Stack trace:
+[08-Jun-2016 12:41:42 UTC] PHP   1. {main}() /home/ubuntu/workspace/digiudo/view/index.php:0
+[08-Jun-2016 23:11:44 UTC] PHP Warning:  include(): http:// wrapper is disabled in the server configuration by allow_url_include=0 in /home/ubuntu/workspace/digiudo/view/index.php on line 9
+[08-Jun-2016 23:11:44 UTC] PHP Stack trace:
+[08-Jun-2016 23:11:44 UTC] PHP   1. {main}() /home/ubuntu/workspace/digiudo/view/index.php:0
+[08-Jun-2016 23:11:44 UTC] PHP Warning:  include(http://fonts.googleapis.com/css?family=Amaranth): failed to open stream: no suitable wrapper could be found in /home/ubuntu/workspace/digiudo/view/index.php on line 9
+[08-Jun-2016 23:11:44 UTC] PHP Stack trace:
+[08-Jun-2016 23:11:44 UTC] PHP   1. {main}() /home/ubuntu/workspace/digiudo/view/index.php:0
+[08-Jun-2016 23:11:44 UTC] PHP Warning:  include(): Failed opening 'http://fonts.googleapis.com/css?family=Amaranth' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/digiudo/view/index.php on line 9
+[08-Jun-2016 23:11:44 UTC] PHP Stack trace:
+[08-Jun-2016 23:11:44 UTC] PHP   1. {main}() /home/ubuntu/workspace/digiudo/view/index.php:0
+[08-Jun-2016 23:11:44 UTC] PHP Warning:  include(): http:// wrapper is disabled in the server configuration by allow_url_include=0 in /home/ubuntu/workspace/digiudo/view/index.php on line 12
+[08-Jun-2016 23:11:44 UTC] PHP Stack trace:
+[08-Jun-2016 23:11:44 UTC] PHP   1. {main}() /home/ubuntu/workspace/digiudo/view/index.php:0
+[08-Jun-2016 23:11:44 UTC] PHP Warning:  include(http://fonts.googleapis.com/css?family=Roboto): failed to open stream: no suitable wrapper could be found in /home/ubuntu/workspace/digiudo/view/index.php on line 12
+[08-Jun-2016 23:11:44 UTC] PHP Stack trace:
+[08-Jun-2016 23:11:44 UTC] PHP   1. {main}() /home/ubuntu/workspace/digiudo/view/index.php:0
+[08-Jun-2016 23:11:44 UTC] PHP Warning:  include(): Failed opening 'http://fonts.googleapis.com/css?family=Roboto' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/digiudo/view/index.php on line 12
+[08-Jun-2016 23:11:44 UTC] PHP Stack trace:
+[08-Jun-2016 23:11:44 UTC] PHP   1. {main}() /home/ubuntu/workspace/digiudo/view/index.php:0
+[08-Jun-2016 23:11:45 UTC] PHP Warning:  include(): http:// wrapper is disabled in the server configuration by allow_url_include=0 in /home/ubuntu/workspace/digiudo/view/index.php on line 9
+[08-Jun-2016 23:11:45 UTC] PHP Stack trace:
+[08-Jun-2016 23:11:45 UTC] PHP   1. {main}() /home/ubuntu/workspace/digiudo/view/index.php:0
+[08-Jun-2016 23:11:45 UTC] PHP Warning:  include(http://fonts.googleapis.com/css?family=Amaranth): failed to open stream: no suitable wrapper could be found in /home/ubuntu/workspace/digiudo/view/index.php on line 9
+[08-Jun-2016 23:11:45 UTC] PHP Stack trace:
+[08-Jun-2016 23:11:45 UTC] PHP   1. {main}() /home/ubuntu/workspace/digiudo/view/index.php:0
+[08-Jun-2016 23:11:45 UTC] PHP Warning:  include(): Failed opening 'http://fonts.googleapis.com/css?family=Amaranth' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/digiudo/view/index.php on line 9
+[08-Jun-2016 23:11:45 UTC] PHP Stack trace:
+[08-Jun-2016 23:11:45 UTC] PHP   1. {main}() /home/ubuntu/workspace/digiudo/view/index.php:0
+[08-Jun-2016 23:11:45 UTC] PHP Warning:  include(): http:// wrapper is disabled in the server configuration by allow_url_include=0 in /home/ubuntu/workspace/digiudo/view/index.php on line 12
+[08-Jun-2016 23:11:45 UTC] PHP Stack trace:
+[08-Jun-2016 23:11:45 UTC] PHP   1. {main}() /home/ubuntu/workspace/digiudo/view/index.php:0
+[08-Jun-2016 23:11:45 UTC] PHP Warning:  include(http://fonts.googleapis.com/css?family=Roboto): failed to open stream: no suitable wrapper could be found in /home/ubuntu/workspace/digiudo/view/index.php on line 12
+[08-Jun-2016 23:11:45 UTC] PHP Stack trace:
+[08-Jun-2016 23:11:45 UTC] PHP   1. {main}() /home/ubuntu/workspace/digiudo/view/index.php:0
+[08-Jun-2016 23:11:45 UTC] PHP Warning:  include(): Failed opening 'http://fonts.googleapis.com/css?family=Roboto' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/digiudo/view/index.php on line 12
+[08-Jun-2016 23:11:45 UTC] PHP Stack trace:
+[08-Jun-2016 23:11:45 UTC] PHP   1. {main}() /home/ubuntu/workspace/digiudo/view/index.php:0
+[08-Jun-2016 23:11:48 UTC] PHP Warning:  include(): http:// wrapper is disabled in the server configuration by allow_url_include=0 in /home/ubuntu/workspace/digiudo/view/index.php on line 9
+[08-Jun-2016 23:11:48 UTC] PHP Stack trace:
+[08-Jun-2016 23:11:48 UTC] PHP   1. {main}() /home/ubuntu/workspace/digiudo/view/index.php:0
+[08-Jun-2016 23:11:48 UTC] PHP Warning:  include(http://fonts.googleapis.com/css?family=Amaranth): failed to open stream: no suitable wrapper could be found in /home/ubuntu/workspace/digiudo/view/index.php on line 9
+[08-Jun-2016 23:11:48 UTC] PHP Stack trace:
+[08-Jun-2016 23:11:48 UTC] PHP   1. {main}() /home/ubuntu/workspace/digiudo/view/index.php:0
+[08-Jun-2016 23:11:48 UTC] PHP Warning:  include(): Failed opening 'http://fonts.googleapis.com/css?family=Amaranth' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/digiudo/view/index.php on line 9
+[08-Jun-2016 23:11:48 UTC] PHP Stack trace:
+[08-Jun-2016 23:11:48 UTC] PHP   1. {main}() /home/ubuntu/workspace/digiudo/view/index.php:0
+[08-Jun-2016 23:11:48 UTC] PHP Warning:  include(): http:// wrapper is disabled in the server configuration by allow_url_include=0 in /home/ubuntu/workspace/digiudo/view/index.php on line 12
+[08-Jun-2016 23:11:48 UTC] PHP Stack trace:
+[08-Jun-2016 23:11:48 UTC] PHP   1. {main}() /home/ubuntu/workspace/digiudo/view/index.php:0
+[08-Jun-2016 23:11:48 UTC] PHP Warning:  include(http://fonts.googleapis.com/css?family=Roboto): failed to open stream: no suitable wrapper could be found in /home/ubuntu/workspace/digiudo/view/index.php on line 12
+[08-Jun-2016 23:11:48 UTC] PHP Stack trace:
+[08-Jun-2016 23:11:48 UTC] PHP   1. {main}() /home/ubuntu/workspace/digiudo/view/index.php:0
+[08-Jun-2016 23:11:48 UTC] PHP Warning:  include(): Failed opening 'http://fonts.googleapis.com/css?family=Roboto' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/digiudo/view/index.php on line 12
+[08-Jun-2016 23:11:48 UTC] PHP Stack trace:
+[08-Jun-2016 23:11:48 UTC] PHP   1. {main}() /home/ubuntu/workspace/digiudo/view/index.php:0
+[08-Jun-2016 23:11:49 UTC] PHP Warning:  include(): http:// wrapper is disabled in the server configuration by allow_url_include=0 in /home/ubuntu/workspace/digiudo/view/index.php on line 9
+[08-Jun-2016 23:11:49 UTC] PHP Stack trace:
+[08-Jun-2016 23:11:49 UTC] PHP   1. {main}() /home/ubuntu/workspace/digiudo/view/index.php:0
+[08-Jun-2016 23:11:49 UTC] PHP Warning:  include(http://fonts.googleapis.com/css?family=Amaranth): failed to open stream: no suitable wrapper could be found in /home/ubuntu/workspace/digiudo/view/index.php on line 9
+[08-Jun-2016 23:11:49 UTC] PHP Stack trace:
+[08-Jun-2016 23:11:49 UTC] PHP   1. {main}() /home/ubuntu/workspace/digiudo/view/index.php:0
+[08-Jun-2016 23:11:49 UTC] PHP Warning:  include(): Failed opening 'http://fonts.googleapis.com/css?family=Amaranth' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/digiudo/view/index.php on line 9
+[08-Jun-2016 23:11:49 UTC] PHP Stack trace:
+[08-Jun-2016 23:11:49 UTC] PHP   1. {main}() /home/ubuntu/workspace/digiudo/view/index.php:0
+[08-Jun-2016 23:11:49 UTC] PHP Warning:  include(): http:// wrapper is disabled in the server configuration by allow_url_include=0 in /home/ubuntu/workspace/digiudo/view/index.php on line 12
+[08-Jun-2016 23:11:49 UTC] PHP Stack trace:
+[08-Jun-2016 23:11:49 UTC] PHP   1. {main}() /home/ubuntu/workspace/digiudo/view/index.php:0
+[08-Jun-2016 23:11:49 UTC] PHP Warning:  include(http://fonts.googleapis.com/css?family=Roboto): failed to open stream: no suitable wrapper could be found in /home/ubuntu/workspace/digiudo/view/index.php on line 12
+[08-Jun-2016 23:11:49 UTC] PHP Stack trace:
+[08-Jun-2016 23:11:49 UTC] PHP   1. {main}() /home/ubuntu/workspace/digiudo/view/index.php:0
+[08-Jun-2016 23:11:49 UTC] PHP Warning:  include(): Failed opening 'http://fonts.googleapis.com/css?family=Roboto' for inclusion (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/digiudo/view/index.php on line 12
+[08-Jun-2016 23:11:49 UTC] PHP Stack trace:
+[08-Jun-2016 23:11:49 UTC] PHP   1. {main}() /home/ubuntu/workspace/digiudo/view/index.php:0

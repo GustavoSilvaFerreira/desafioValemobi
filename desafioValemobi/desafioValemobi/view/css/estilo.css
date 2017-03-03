@@ -1,0 +1,43 @@
+
+.err{
+	width:100%;
+	text-align: center;
+	margin-top: 5%;
+	border-radius:5px;
+	padding:0.5%;
+	border-color: #f70;
+	background-Color: #FFC0CB;
+}
+.success{
+	width:100%;
+	text-align: center;
+	margin-top: 5%;
+	border-radius:5px;
+	padding:0.5%;
+	border-color: #f70;
+	background-Color: #0f0;
+}
+
+#headerExibirMercadoria{
+  background-color: #ddd;
+}
+
+#h1-ExibirMercadoria{
+  color: #000;
+}
+
+.font-white{
+  color: #fff;
+}
+
+.margin-bottom{
+  margin: 2px;
+}
+
+.margin-bottom-voltar{
+	padding-bottom: 40px;
+}
+
+#painelConteudo{
+  margin-top: 10px;
+}

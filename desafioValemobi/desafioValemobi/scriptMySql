@@ -1,0 +1,22 @@
+
+CREATE DATABASE DesafioValemobi;
+
+USE DesafioValemobi;
+
+CREATE TABLE TipoMercadoria (cd_TipoMercadoria INT NOT NULL AUTO_INCREMENT, 
+                            nm_TipoMercadoria VARCHAR(50) NOT NULL,
+                            PRIMARY KEY (cd_TipoMercadoria));
+
+CREATE TABLE TipoNegocio (cd_TipoNegocio INT NOT NULL AUTO_INCREMENT, 
+                            nm_TipoNegocio VARCHAR(50) NOT NULL,
+                            PRIMARY KEY (cd_TipoNegocio));
+                            
+CREATE TABLE Mercadoria (cd_Mercadoria INT NOT NULL AUTO_INCREMENT,
+                            nm_Mercadoria VARCHAR(255) NOT NULL, 
+                            cd_TipoMercadoria INT NOT NULL,
+                            qt_Mercadoria INT NOT NULL,
+                            vl_Mercadoria DECIMAL(10,2) NOT NULL,
+                            cd_TipoNegocio INT NOT NULL,
+                            PRIMARY KEY (cd_Mercadoria),
+                            FOREIGN KEY (cd_TipoMercadoria) REFERENCES TipoMercadoria(cd_TipoMercadoria),
+                            FOREIGN KEY (cd_TipoNegocio) REFERENCES TipoNegocio(cd_TipoNegocio));
